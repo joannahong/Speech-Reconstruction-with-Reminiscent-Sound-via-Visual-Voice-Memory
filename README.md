@@ -9,7 +9,7 @@ Each demo video contains the original speech, the generated speech from previous
 - Multi-speaker-dependent [[Demo Video]](https://youtu.be/-sHQBLU_hek)
 - Multi-speaker-independent [[Demo Video]](https://youtu.be/LG5NNwWe_pc)
  <p align="center">
-  <img src="demo-videos/thumbnail.gif"/></p>
+  <img src="demo-videos/thumbnail.gif" width="80%" height="80%" /></p>
 
 ## Audio samples
 The actual generated audio samples are available in [here](https://github.com/joannahong/VV-Memory/tree/main/audio-samples).
