@@ -5,7 +5,7 @@ This repository contains the video demo and the audio samples of IEEE TASLP subm
 
 ## Demo video
 Each demo video contains the original speech, the generated speech from previous work <a id="1">[1]</a>, and the generated speech from the proposed method from four different speakers.
-- Speaker-dependent [[Demo Video]]()
+- Speaker-dependent [[Demo Video]](https://youtu.be/xPqn9lcMew8)
 - Multi-speaker-dependent [[Demo Video]]()
 - Multi-speaker-independent [[Demo Video]]()
  <p align="center">
