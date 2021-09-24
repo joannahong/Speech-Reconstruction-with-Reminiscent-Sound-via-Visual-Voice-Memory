@@ -11,7 +11,7 @@ This repository contains the video demo and the audio samples of IEEE TASLP subm
   <img src="images/banner.gif"/></p>
 
 ## Audio samples
-The actual generated audio samples are available in [here]().
+The actual generated audio samples are available in [here](https://github.com/joannahong/VV-Memory/tree/main/audio-samples).
 
 ### Directory structure
 The directory is composed with the following architecture
