@@ -4,6 +4,7 @@
 This repository contains the video demo and the audio samples of IEEE TASLP submitted paper titled "Speech Reconstruction with Reminiscent Sound via Visual Voice Memory"
 
 ## Demo video
+Each demo video contains the original speech, the generated speech from previous work <a id="1">[1]</a>, and the generated speech from the proposed method from four different speakers.
 - Speaker-dependent [[Demo Video]]()
 - Multi-speaker-dependent [[Demo Video]]()
 - Multi-speaker-independent [[Demo Video]]()
