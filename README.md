@@ -56,13 +56,16 @@ The directory is composed with the following architecture
 
 ----------
 ### GRID dataset dictionary
-
+<div align="center">
+ 
 | **Command** | **Color** | **Preposition** | **Letter** | **Digit** | **Adverb** |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | bin | blue | at |A-Z|0-9|again|
 | lay | green | by | minus W | |now|
 |place|red|in| | | please|
 | set |white|with| | |soon|
+ 
+</div>
 
 ## References
   <a id="1">[1]</a> K.Prajwal, R.Mukhopadhyay, V.P.Namboodiri, and C.Jawahar, “Learning individual speaking styles for accurate lip to speech synthesis,” in Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2020, pp.13 796–13 8
