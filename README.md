@@ -11,6 +11,19 @@ Each demo video contains the original speech, the generated speech from previous
  <p align="center">
   <img src="demo-videos/thumbnail.gif" width="80%" height="80%" /></p>
 
+## Performances
+The objective measurements of the test samples of each setting (speaker dependent, multi speaker dependent, multi speaker independent) are listed below. 
+<div align="center">
+ 
+|  | **STOI** | **ESTOI** | **PESQ** | 
+| :---: | :---: | :---: | :---: | 
+| **Speaker-dependent** (w/ griffin-lim) | 0.738 | 0.579 | 1.984 |
+ | **Speaker-dependent** (w/ wavenet vocoder) | 0.737 | 0.578 | 1.984 |
+| **Multi-speaker-dependent** | 0.754 | 0.602 | 2.112 |
+| **Multi-speaker-independent** | 0.600 | 0.315 | 1.332 |
+ 
+</div>
+
 ## Audio samples
 The actual generated audio samples are available in [here](https://github.com/joannahong/VV-Memory/tree/main/audio-samples).
 
