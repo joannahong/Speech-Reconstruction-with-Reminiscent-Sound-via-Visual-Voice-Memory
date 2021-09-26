@@ -5,7 +5,7 @@ This repository contains the video demo and the audio samples of IEEE TASLP subm
 
 ## Demo video
 Each demo video contains the original speech, the generated speech from previous work <a id="1">[1]</a>, and the generated speech from the proposed method from four different speakers. The video demos are also availalbe in [here](https://github.com/joannahong/VV-Memory/tree/main/demo-videos).
-- Speaker-dependent [[Demo Video]]()
+- Speaker-dependent [[Demo Video]](https://youtu.be/GkpSHjTc1RQ)
 - Multi-speaker-dependent [[Demo Video]](https://youtu.be/4cxv60Ij29c)
 - Multi-speaker-independent [[Demo Video]](https://youtu.be/LG5NNwWe_pc)
  <p align="center">
