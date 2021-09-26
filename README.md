@@ -8,6 +8,7 @@ Each demo video contains the original speech, the generated speech from previous
 - Speaker-dependent [[Demo Video]](https://youtu.be/GkpSHjTc1RQ)
 - Multi-speaker-dependent [[Demo Video]](https://youtu.be/4cxv60Ij29c)
 - Multi-speaker-independent [[Demo Video]](https://youtu.be/LG5NNwWe_pc)
+<example>
  <p align="center">
   <img src="demo-videos/thumbnail.gif" width="80%" height="80%" /></p>
 
