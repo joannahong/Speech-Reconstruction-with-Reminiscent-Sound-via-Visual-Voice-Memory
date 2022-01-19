@@ -1,4 +1,5 @@
 # Speech Reconstruction with Reminiscent Sound via Visual Voice Memory
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/speech-reconstruction-with-reminiscent-sound/speaker-specific-lip-to-speech-synthesis-on)](https://paperswithcode.com/sota/speaker-specific-lip-to-speech-synthesis-on?p=speech-reconstruction-with-reminiscent-sound)
 
 ## Overview
 This repository contains the video demo and the audio samples of IEEE TASLP submitted paper titled "Speech Reconstruction with Reminiscent Sound via Visual Voice Memory"
